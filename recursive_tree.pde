@@ -16,12 +16,6 @@ void draw() {
  background(200,200,255);
  
   drawTrees(); //this draws the trees
- // fill(100, 255, 100);
- // rectMode(CORNERS);
-  //noStroke();
- // rect(0, 700, 500, 600); //this draws and colors the grass
-  // random(millis()*millis()*random(0, 9999999));
-  // print(mouseX);
   save("tree.png");
 }
 
